@@ -29,7 +29,7 @@
 ### 1. Camera Calibration
 - 비디오를 재생하며 다양한 각도에서 체스보드 프레임을 추출합니다.
 - Space: 화면 일시정지 및 체스보드 프레임 추출
-- Enter: 혀냊 프레임을 데이터셋으로 저장
+- Enter: 현재 프레임을 데이터셋으로 저장
 - ESC: 선택완료 및 계산 시작
 
 ### 2. Distortion Correction
